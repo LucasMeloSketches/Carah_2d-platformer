@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-4214476936717014843
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 5
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: skyboxMat
+  m_Shader: {fileID: -6465566751694194690, guid: 284000e39a56cd040803b49c9b24773c,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _CloudsTexture:
+        m_Texture: {fileID: 2800000, guid: 779c7519d3e4e404a916d9672a77b2e4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AnimationSpeed: 2.86
+    - _CloudFade2: 1.06
+    - _CloudPower2: 0.69
+    - _CloudScale2: 0.94
+    - _CloudSpeed2: 1.25
+    - _CloudsPower: 0.63
+    - _CloudsScale: 0.46
+    - _DistanceFadePower: 0.45
+    - _NadirBlendPower: 0.61
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _ZenithBlendPower: 0.33
+    m_Colors:
+    - _BottomColor: {r: 0.09433961, g: 0, b: 0.002742938, a: 0}
+    - _CloudsColor: {r: 0, g: 1.4290932, b: 1.8443027, a: 0}
+    - _CloudsDeformation: {r: 6.37, g: 2.15, b: 0, a: 0}
+    - _HorizonColor: {r: 0.16301486, g: 0, b: 0.11009904, a: 0}
+    - _HorizonFog: {r: 0.77265036, g: 0.9036069, b: 0.9150943, a: 0}
+    - _MiddleColor: {r: 0.6226415, g: 0.044054817, b: 0.61939096, a: 0}
+    - _NadirColor: {r: 0.1226415, g: 0.006363475, b: 0.007525672, a: 0}
+    - _TopColor: {r: 0, g: 0.0013990939, b: 0.11320752, a: 0}
+    - _ZenithColor: {r: 0.0025338933, g: 0.00051029795, b: 0.0016188762, a: 0}
+  m_BuildTextureStacks: []

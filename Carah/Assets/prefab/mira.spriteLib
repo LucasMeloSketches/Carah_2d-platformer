@@ -1,0 +1,253 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 36
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: Franja
+    m_Hash: -1884987438
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Entry
+      m_Hash: -354373004
+      m_Sprite: {fileID: 5937343456517283097, guid: 477129ce8fed8b846a8765ff52c43ecb,
+        type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 5937343456517283097, guid: 477129ce8fed8b846a8765ff52c43ecb,
+        type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Cabelo Topo
+    m_Hash: 1899299708
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Entry
+      m_Hash: -354373004
+      m_Sprite: {fileID: -1237509415601708328, guid: 477129ce8fed8b846a8765ff52c43ecb,
+        type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1237509415601708328, guid: 477129ce8fed8b846a8765ff52c43ecb,
+        type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: "Tran\xE7a Direita"
+    m_Hash: 757416718
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Entry
+      m_Hash: -354373004
+      m_Sprite: {fileID: -147565627729923062, guid: 477129ce8fed8b846a8765ff52c43ecb,
+        type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -147565627729923062, guid: 477129ce8fed8b846a8765ff52c43ecb,
+        type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: "Bra\xE7o Direito"
+    m_Hash: -799187141
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Entry
+      m_Hash: -354373004
+      m_Sprite: {fileID: -5194634071166609046, guid: 477129ce8fed8b846a8765ff52c43ecb,
+        type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -5194634071166609046, guid: 477129ce8fed8b846a8765ff52c43ecb,
+        type: 3}
+    - m_Name: Entry_0
+      m_Hash: 874506106
+      m_Sprite: {fileID: -2884603882006271094, guid: 477129ce8fed8b846a8765ff52c43ecb,
+        type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -2884603882006271094, guid: 477129ce8fed8b846a8765ff52c43ecb,
+        type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 2
+  - m_Name: "M\xE3o Direita"
+    m_Hash: -215744252
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Entry
+      m_Hash: -354373004
+      m_Sprite: {fileID: -3843041388731436643, guid: 477129ce8fed8b846a8765ff52c43ecb,
+        type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -3843041388731436643, guid: 477129ce8fed8b846a8765ff52c43ecb,
+        type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Saia
+    m_Hash: 1063477095
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Entry
+      m_Hash: -354373004
+      m_Sprite: {fileID: -4909636661119333467, guid: 477129ce8fed8b846a8765ff52c43ecb,
+        type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -4909636661119333467, guid: 477129ce8fed8b846a8765ff52c43ecb,
+        type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Perna Direita
+    m_Hash: 1270146142
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Entry
+      m_Hash: -354373004
+      m_Sprite: {fileID: -3242464098903914692, guid: 477129ce8fed8b846a8765ff52c43ecb,
+        type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -3242464098903914692, guid: 477129ce8fed8b846a8765ff52c43ecb,
+        type: 3}
+    - m_Name: Entry_0
+      m_Hash: 874506106
+      m_Sprite: {fileID: -8927977692177076979, guid: 477129ce8fed8b846a8765ff52c43ecb,
+        type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -8927977692177076979, guid: 477129ce8fed8b846a8765ff52c43ecb,
+        type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 2
+  - m_Name: "Cabe\xE7a"
+    m_Hash: -1942545280
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Entry
+      m_Hash: -354373004
+      m_Sprite: {fileID: -7040212953643105102, guid: 477129ce8fed8b846a8765ff52c43ecb,
+        type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -7040212953643105102, guid: 477129ce8fed8b846a8765ff52c43ecb,
+        type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: "Tran\xE7a Esquerda"
+    m_Hash: -713119878
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Entry
+      m_Hash: -354373004
+      m_Sprite: {fileID: 7211339839418126007, guid: 477129ce8fed8b846a8765ff52c43ecb,
+        type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 7211339839418126007, guid: 477129ce8fed8b846a8765ff52c43ecb,
+        type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: "Pesco\xE7o"
+    m_Hash: 1984537780
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Entry
+      m_Hash: -354373004
+      m_Sprite: {fileID: -7857885599812005536, guid: 477129ce8fed8b846a8765ff52c43ecb,
+        type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -7857885599812005536, guid: 477129ce8fed8b846a8765ff52c43ecb,
+        type: 3}
+    - m_Name: Entry_0
+      m_Hash: 874506106
+      m_Sprite: {fileID: -1859594824231470859, guid: 477129ce8fed8b846a8765ff52c43ecb,
+        type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1859594824231470859, guid: 477129ce8fed8b846a8765ff52c43ecb,
+        type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 2
+  - m_Name: Tronco
+    m_Hash: 387849535
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Entry
+      m_Hash: -354373004
+      m_Sprite: {fileID: -772959016384577849, guid: 477129ce8fed8b846a8765ff52c43ecb,
+        type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -772959016384577849, guid: 477129ce8fed8b846a8765ff52c43ecb,
+        type: 3}
+    - m_Name: Entry_0
+      m_Hash: 874506106
+      m_Sprite: {fileID: -8275059186329970687, guid: 477129ce8fed8b846a8765ff52c43ecb,
+        type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -8275059186329970687, guid: 477129ce8fed8b846a8765ff52c43ecb,
+        type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 2
+  - m_Name: "Bra\xE7o Esquerdo"
+    m_Hash: -99935284
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Entry
+      m_Hash: -354373004
+      m_Sprite: {fileID: -8312057901397266848, guid: 477129ce8fed8b846a8765ff52c43ecb,
+        type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -8312057901397266848, guid: 477129ce8fed8b846a8765ff52c43ecb,
+        type: 3}
+    - m_Name: Entry_0
+      m_Hash: 874506106
+      m_Sprite: {fileID: 8396660526374250613, guid: 477129ce8fed8b846a8765ff52c43ecb,
+        type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 8396660526374250613, guid: 477129ce8fed8b846a8765ff52c43ecb,
+        type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 2
+  - m_Name: "M\xE3o Esquerda"
+    m_Hash: 896880422
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Entry
+      m_Hash: -354373004
+      m_Sprite: {fileID: 6827478581043310505, guid: 477129ce8fed8b846a8765ff52c43ecb,
+        type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 6827478581043310505, guid: 477129ce8fed8b846a8765ff52c43ecb,
+        type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  - m_Name: Perna Esquerda
+    m_Hash: -1099733207
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Entry
+      m_Hash: -354373004
+      m_Sprite: {fileID: 6944674284435096858, guid: 477129ce8fed8b846a8765ff52c43ecb,
+        type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 6944674284435096858, guid: 477129ce8fed8b846a8765ff52c43ecb,
+        type: 3}
+    - m_Name: Entry_0
+      m_Hash: 874506106
+      m_Sprite: {fileID: -5374610351142206329, guid: 477129ce8fed8b846a8765ff52c43ecb,
+        type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -5374610351142206329, guid: 477129ce8fed8b846a8765ff52c43ecb,
+        type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 2
+  - m_Name: Cabelo Atras
+    m_Hash: -254544237
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Entry
+      m_Hash: -354373004
+      m_Sprite: {fileID: -7795422748328956803, guid: 477129ce8fed8b846a8765ff52c43ecb,
+        type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -7795422748328956803, guid: 477129ce8fed8b846a8765ff52c43ecb,
+        type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  m_PrimaryLibraryGUID: 

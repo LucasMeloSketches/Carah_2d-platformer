@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: c2d323bee1990d345ac3c8a0998bda30
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6579556603750059526
+    second: chao 7x7 slice_0
+  - first:
+      213: -4693780568035463672
+    second: chao 7x7 slice_1
+  - first:
+      213: 1878684492553407707
+    second: chao 7x7 slice_2
+  - first:
+      213: 8071152754292505959
+    second: chao 7x7 slice_3
+  - first:
+      213: 3588704219773896472
+    second: chao 7x7 slice_4
+  - first:
+      213: 3253165609079215586
+    second: chao 7x7 slice_5
+  - first:
+      213: 5845540518855650903
+    second: chao 7x7 slice_6
+  - first:
+      213: 999300914185785702
+    second: chao 7x7 slice_7
+  - first:
+      213: -2064702120856742570
+    second: chao 7x7 slice_8
+  - first:
+      213: 4116643122539942214
+    second: chao 7x7 slice_9
+  - first:
+      213: -64898620138953738
+    second: chao 7x7 slice_10
+  - first:
+      213: -85104365982743242
+    second: chao 7x7 slice_11
+  - first:
+      213: -2257559915598035473
+    second: chao 7x7 slice_12
+  - first:
+      213: 6713894506960461421
+    second: chao 7x7 slice_13
+  - first:
+      213: -9072326340185527546
+    second: chao 7x7 slice_14
+  - first:
+      213: 7146929156976723598
+    second: chao 7x7 slice_15
+  - first:
+      213: 434724726894170519
+    second: chao 7x7 slice_16
+  - first:
+      213: -3137818772169301982
+    second: chao 7x7 slice_17
+  - first:
+      213: -5975042842565359330
+    second: chao 7x7 slice_18
+  - first:
+      213: 606923550280418573
+    second: chao 7x7 slice_19
+  - first:
+      213: 5226773780743394938
+    second: chao 7x7 slice_20
+  - first:
+      213: -5076840946920779627
+    second: chao 7x7 slice_21
+  - first:
+      213: -332820693420922053
+    second: chao 7x7 slice_22
+  - first:
+      213: -1790662194804039386
+    second: chao 7x7 slice_23
+  - first:
+      213: -7797800931307159431
+    second: chao 7x7 slice_24
+  - first:
+      213: -2285832991883270050
+    second: chao 7x7 slice_25
+  - first:
+      213: -8805409056089142630
+    second: chao 7x7 slice_26
+  - first:
+      213: -6276393484805859015
+    second: chao 7x7 slice_27
+  - first:
+      213: -2144650067779385669
+    second: chao 7x7 slice_28
+  - first:
+      213: -8464235125650884016
+    second: chao 7x7 slice_29
+  - first:
+      213: 767249258435836613
+    second: chao 7x7 slice_30
+  - first:
+      213: 8956298039209128343
+    second: chao 7x7 slice_31
+  - first:
+      213: -2676843433490615469
+    second: chao 7x7 slice_32
+  - first:
+      213: 6488682941572013757
+    second: chao 7x7 slice_33
+  - first:
+      213: -8406918417449286580
+    second: chao 7x7 slice_34
+  - first:
+      213: 2934006328244293037
+    second: chao 7x7 slice_35
+  - first:
+      213: -5210621668155578100
+    second: chao 7x7 slice_36
+  - first:
+      213: -4517144026003835474
+    second: chao 7x7 slice_37
+  - first:
+      213: 5321980907766811141
+    second: chao 7x7 slice_38
+  - first:
+      213: 5399057047794811117
+    second: chao 7x7 slice_39
+  - first:
+      213: 3374106414959664737
+    second: chao 7x7 slice_40
+  - first:
+      213: -4939180265537535075
+    second: chao 7x7 slice_41
+  - first:
+      213: -4389912154240472061
+    second: chao 7x7 slice_42
+  - first:
+      213: -1879536245925689837
+    second: chao 7x7 slice_43
+  - first:
+      213: 3762725504392995245
+    second: chao 7x7 slice_44
+  - first:
+      213: -3624985790151839436
+    second: chao 7x7 slice_45
+  - first:
+      213: 5879777255617341943
+    second: chao 7x7 slice_46
+  - first:
+      213: 2172575039227114317
+    second: chao 7x7 slice_47
+  - first:
+      213: 770958408613131863
+    second: chao 7x7 slice_48
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chao 7x7 slice_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 597.3334
+        width: 298.66666
+        height: 298.66666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1f6edf028b0b4a0800000000000000
+      internalID: -6579556603750059526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chao 7x7 slice_1
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 597.3334
+        width: 298.66666
+        height: 298.66666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e6d9c21775cdeb0800000000000000
+      internalID: -4693780568035463672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chao 7x7 slice_2
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 597.3334
+        width: 298.66666
+        height: 298.66666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc4eaf979d621a10800000000000000
+      internalID: 1878684492553407707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chao 7x7 slice_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 299.33334
+        width: 298.66666
+        height: 298.66666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d358fcaae720070800000000000000
+      internalID: 8071152754292505959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chao 7x7 slice_4
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 299.33334
+        width: 298.66666
+        height: 298.66666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817819f5973adc130800000000000000
+      internalID: 3588704219773896472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chao 7x7 slice_5
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 299.33334
+        width: 298.66666
+        height: 298.66666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e51faca2e0952d20800000000000000
+      internalID: 3253165609079215586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chao 7x7 slice_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.3333435
+        width: 298.66666
+        height: 298.66666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e2b8281288f1150800000000000000
+      internalID: 5845540518855650903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chao 7x7 slice_7
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1.3333435
+        width: 298.66666
+        height: 298.66666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66154cd03ea3edd00800000000000000
+      internalID: 999300914185785702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chao 7x7 slice_8
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1.3333435
+        width: 298.66666
+        height: 298.66666
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655965f3c54b853e0800000000000000
+      internalID: -2064702120856742570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      chao 7x7 slice_5: 3253165609079215586
+      chao 7x7 slice_7: 999300914185785702
+      chao 7x7 slice_4: 3588704219773896472
+      chao 7x7 slice_3: 8071152754292505959
+      chao 7x7 slice_0: -6579556603750059526
+      chao 7x7 slice_1: -4693780568035463672
+      chao 7x7 slice_8: -2064702120856742570
+      chao 7x7 slice_2: 1878684492553407707
+      chao 7x7 slice_6: 5845540518855650903
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
